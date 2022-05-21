@@ -1,11 +1,19 @@
  
- ## Using Create React App
+ # To run the project just download the file and run the command below in the terminal
+
+``` 
+npm start
+
+```
+
+## Using Create React App
 
 ### React-Router-DOM
 ### Styled-Components
 ### Redux
 ### React Hooks
 ### Material UI
+### google firebase
 
  remove the default padding and margin and box-sizing.
 
