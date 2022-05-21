@@ -1,9 +1,3 @@
- delete the junk.
-
- # initindev@gmail.com
- # 1013521nithin 
- 
- 
  remove the default padding and margin and box-sizing.
 
  set background and color in the body.
